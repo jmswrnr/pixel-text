@@ -1,0 +1,26 @@
+{
+  "name": "pixel-text",
+  "version": "0.0.1",
+  "description": "Render bitmap pixel fonts to canvas without anti-aliasing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmswrnr/pixel-font.git"
+  },
+  "keywords": [
+    "bitmap",
+    "pixel",
+    "font",
+    "canvas",
+    "anti-aliasing"
+  ],
+  "author": "James Warner (https://jmswrnr.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jmswrnr/pixel-font/issues"
+  },
+  "homepage": "https://github.com/jmswrnr/pixel-font#readme"
+}
