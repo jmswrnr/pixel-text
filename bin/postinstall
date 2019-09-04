@@ -1,0 +1,7 @@
+console.log('\x1b[32m______________________________________\n\x1b[0m');
+
+console.log('\x1b[36mThank you for installing \x1b[0mpixel-text\x1b[36m!');
+
+console.log('\x1b[35m%s\x1b[0m', `Catch me streaming live on Twitch! https://twitch.tv/jmswrnr`);
+
+console.log('\x1b[32m______________________________________\x1b[0m');

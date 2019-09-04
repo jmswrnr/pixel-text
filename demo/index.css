@@ -1,0 +1,2 @@
+@font-face{font-family:helvetipixel;src:url(/helvetipixel_medium.ttf) format("truetype")}body{background:#282a36;color:#fff;font-family:helvetipixel,sans-serif;margin:20px}*{font-smooth:never;-webkit-font-smoothing:none;-ms-interpolation-mode:nearest-neighbor;image-rendering:-moz-crisp-edges;image-rendering:pixelated}h1{margin:0 auto;font-size:64px;font-weight:400}h1 span{color:#ffb86c}#demo-canvas{-webkit-transform:scale(4);transform:scale(4);-webkit-transform-origin:top left;transform-origin:top left}
+/*# sourceMappingURL=index.css.map */
